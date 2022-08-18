@@ -1,0 +1,22 @@
+Introdução:
+
+	O exerimento trata-se de utilizar um trilho de ar inclinado e um carrinho, para que através do tempo em que o carrinnho leva entre a extrmidade mais alta e a mais baixa do trilho,
+ obtermos uma amostragem de velocidades para que aplicando as leis de newton possamos mensurar a aceleração pontual da gravidade
+
+Material necessário:
+
+	cronômetro com um sensor óptico
+	trilho de ar graduado em mm
+	um planador
+	2 cilindros de inox
+	placa de plástico retangular
+
+
+Introdução teórica:
+
+	Um carrinho movendo-se em um trilho e sendo uniformemente acelerado pela gravidade, tem seu movimento descrito como um MRUA(Movimento Retilino Uniformemente Acelerado).
+Sendo assim, a abordagem que podemos utilizar para o modelo descrito, é utliziramos a formula de Torricelli para assim isolarmos a aceleração do mesmo, e depois decompormos o valor de aceleração
+no produto da gravidade pelo seno do angulo formado plano inclinado e o plano horizontal, e assim isolarmos a gravidade no dado ponto.
+ 
+	
+	
